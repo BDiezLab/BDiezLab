@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 style="font-weight:normal" align="center">
   &nbsp;Welcome, We are the Beatriz Díez Laboratory! &nbsp; &nbsp;
 </h1>
