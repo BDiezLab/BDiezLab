@@ -3,7 +3,7 @@
 </h1>
 
 <h1 style="font-weight:normal" align="center">
-BDíez Lab de Ecología Microbiana de Sistemas Extremos <br>
-BDíez Lab of Microbial Ecology of Extreme Systems
+Ecología Microbiana de Sistemas Extremos <br>
+Microbial Ecology of Extreme Systems
 </h1>
 
