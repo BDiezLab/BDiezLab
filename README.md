@@ -6,3 +6,6 @@
 Ecología Microbiana de Sistemas Extremos <br> Microbial Ecology of Extreme Systems
 </h2>
 
+<div align="center">
+<img height="28" src="https://github.com/BDiezLab/BDiezLab/blob/main/img/BDiezLab.png" />
+</div>
