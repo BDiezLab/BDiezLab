@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Welcome to the Github page of the Beatriz Díez Laboratory!! &nbsp; &nbsp;
+  &nbsp;Welcome to the Github of the Beatriz Díez Laboratory!! &nbsp; &nbsp;
 </h1>
 
 <h2 style="font-weight:normal" align="center">
